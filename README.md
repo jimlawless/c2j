@@ -1,2 +1,7 @@
 # c2j
-Clipboard to JPEG for Linux
+A command-line clipboard to JPEG file utility for Linux
+
+Please see the blog post at:
+
+https://jimlawless.net/blog/posts/mintcap/
+
